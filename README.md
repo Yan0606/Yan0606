@@ -3,9 +3,9 @@
 - 👀 I’m interested in work in the area of Systems Development
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate in an IT company
-- 📫 How to reach me, my e-mail is yan060604@gmail.com and my Instagram is yan.andrade188
 
-  ## Minhas Habilidades - My Skills 🤖   
+
+  ## Minhas Habilidades - My Skills    
   <div class='langs'>
  <img alt='Yan Linguagem de Marcação HTML' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' class='language marc-html'>
  <img alt='Yan Linguagem de Estilização CSS' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' class='language marc-html'>

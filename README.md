@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate in an IT company
 
 <div style='display:inline-block;'>
-  <img src='https://github-readme-stats.vercel.app/api?username=Yan0606&show_icons=true&theme=radical' height='200px' width='450px'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img      src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yan0606&layout=compact&show_icons=true&theme=radical' height='200px' width='350px' >
+  <img src='https://github-readme-stats.vercel.app/api?username=Yan0606&show_icons=true&theme=dark' height='200px' width='450px'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img      src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yan0606&layout=compact&show_icons=true&theme=dark' height='200px' width='350px' >
 </div>
   <br><hr>
   

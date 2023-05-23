@@ -7,7 +7,9 @@
    <br><hr>
   
 <div style='display:inline-block;'>
-  <img src='https://github-readme-stats.vercel.app/api?username=Yan0606&show_icons=true&theme=dark' height='200px' width='450px'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img      src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yan0606&layout=compact&show_icons=true&theme=dark' height='200px' width='350px' >
+  <div style='display:inline-block;'>
+  <img src='https://github-readme-stats.vercel.app/api?username=Yan0606&theme=radical&show_icons=true' height='200px' width='450px'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img      src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yan0606&layout=donut&theme=radical' height='190px' width='350px' >
+</div>
 </div>
   <br><hr>
   

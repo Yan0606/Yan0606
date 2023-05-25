@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Yan Andrade 
 - 👀 I’m interested in work in the area of Systems Development
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate in an IT company
+- 💞️ I’m looking to collaborate in an IT company.
 
    <br><hr>
   

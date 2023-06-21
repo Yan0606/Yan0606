@@ -1,8 +1,8 @@
 <body bgcolor='black'>
-- 👋 Hi, I’m Yan Andrade.
-- 👀 I’m interested in work in the area of Systems Development.
-- 🌱 I’m currently learning programming.
-- 📚 I studied systems development as a technician and now I study systems analysis and development.
+- 👋 Hi, I’m Yan Andrade.<br>
+- 👀 I’m interested in work in the area of Systems Development.<br>
+- 🌱 I’m currently learning programming.<br>
+- 📚 I studied systems development as a technician and now I study systems analysis and development.<br>
 
    <br><hr>
   

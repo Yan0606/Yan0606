@@ -6,7 +6,7 @@
   
 <div style='display:inline-block;'>
   <div style='display:inline-block;'>
-  <img src='https://github-readme-stats.vercel.app/api?username=Yan0606&theme=tokyonight&show_icons=true' height='200px' width='450px'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img      src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yan0606&layout=donut&theme=tokyonight' height='200px' width='450px' >
+  <img src='https://github-readme-stats.vercel.app/api?username=Yan0606&theme=tokyonight&show_icons=true' height='200px' width='450px'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img      src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yan0606&layout=donut&theme=tokyonight' height='200px' width='350px' >
 </div>
 </div>
   <br><hr>

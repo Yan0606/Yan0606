@@ -1,8 +1,6 @@
 <body bgcolor='black'>
-- 👋 Hi, I’m Yan Andrade.<br>
-- 👀 I’m interested in work in the area of Systems Development.<br>
-- 🌱 I’m currently learning programming.<br>
-- 📚 I studied systems development as a technician and now I study systems analysis and development.<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=900&color=4B6EA9&multiline=true&width=900&height=120&lines=*+Hi%2C+my+name+is+Yan+Andrade!;*+I'm++Front-End+design!;*+I+studied+systems+development+as+a+technician+;*+And+now+I+study+systems+analysis+and+development+in+college." alt="Typing SVG" /></a>
+   
 
    <br><hr>
   

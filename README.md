@@ -1,6 +1,5 @@
 <body bgcolor='black'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=700&color=4B6EA9&multiline=true&width=900&height=120&lines=*+Hi%2C+my+name+is+Yan+Andrade!;*+I'm++Front-End+design!;*+I+trained+as+a+systems+development+technician,+;*+And+now+I+study+systems+analysis+and+development+in+college." alt="Typing SVG" /></a>
-   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=999&size=18&duration=1000&pause=1000&color=6FA3FA&vCenter=true&multiline=true&repeat=false&random=false&width=550&height=120&lines=*+Hi%2C+my+name+is+Yan!;*+I'm+Front-end+Design.;*+I+study+Systems+Development+Analysis.;*+And+I+finished+as+a+technician+in+Systems+Development." alt="Typing SVG" /></a>
 
    <br><hr>
   

@@ -14,14 +14,14 @@
   <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,php,cs,mysql,github,vue,bootstrap,tailwind" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,php,cs,mysql,github,vue,bootstrap,tailwind,firebase" />
     </a>
 </div>
  <h2>In Progress</h2>    
   <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=laravel,firebase" />
+      <img src="https://skillicons.dev/icons?i=laravel,python" />
     </a>
 </div>
     

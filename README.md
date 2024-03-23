@@ -21,7 +21,7 @@
   <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=laravel,python" />
+      <img src="https://skillicons.dev/icons?i=laravel,python,nodejs" />
     </a>
 </div>
     

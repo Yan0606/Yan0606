@@ -19,14 +19,14 @@
   <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,php,cs,mysql,github,vue,bootstrap,tailwind,firebase,figma" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,nodejs,react,mysql,github,vue,bootstrap,tailwind,firebase,figma" />
     </a>
 </div>
  <h2>In Progress</h2>    
   <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,nodejs,react" />
+      <img src="https://skillicons.dev/icons?i=wordpress" />
     </a>
 </div>
   </div>
